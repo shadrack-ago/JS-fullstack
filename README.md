@@ -39,7 +39,7 @@ git clone https://github.com/PLP-Database-DEPT/gallery.git
 ### 4️⃣ Go to the Project Folder
 
 ```bash
-cd gallery
+cd lab-7
 ```
 
 ### 5️⃣ Install Dependencies
