@@ -9,7 +9,7 @@ A simple gallery project using **Node.js**, **React**, and **MySQL**. It shows y
 
 **Frontend:** React + TailwindCSS 🎨  
 **Backend:** Node.js + Express 🚀  
-**Database:** MySQL 🐬
+**Database:** MySQL 🐬 (workbench)
 
 ---
 
