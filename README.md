@@ -1,5 +1,6 @@
 # 📸 Gallery App
 
+
 A simple gallery project using **Node.js**, **React**, and **MySQL**. It shows you how users can store and display images directly from a MySQL database 💾✨
 
 ---
@@ -23,6 +24,7 @@ CREATE DATABASE gallery;
 ### 2️⃣ Create a Table
 
 ```sql
+USE gallery;
 CREATE TABLE images (
   id INT AUTO_INCREMENT PRIMARY KEY,
   photo VARCHAR(255),

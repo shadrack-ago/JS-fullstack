@@ -12,7 +12,7 @@ app.use('/uploads', express.static('uploads'));
 const db = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: '', // Password
+  password: '123456789', // Password
   database: 'gallery'
 });
 
